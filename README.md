@@ -1,2 +1,14 @@
-# AI-Classroom-Management-System
-This project is an AI-powered classroom management system designed to assist students, teachers, and parents. It includes features like student performance tracking, AI-based grading assistance, smart session planning, and an AI library for learning support.
+## How to Run
+
+1. Install Python  
+2. Open in VS Code  
+3. Install libraries:
+   pip install numpy google-generativeai  
+4. Add your API key  
+5. Run:
+   python projectly.py
+
+## Technologies Used
+- Python  
+- NumPy  
+- Gemini API  
